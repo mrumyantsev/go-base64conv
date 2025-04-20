@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/mrumyantsev/base64conv-go"
+	"github.com/mrumyantsev/go-base64conv"
 )
 
 func TestAll(t *testing.T) {

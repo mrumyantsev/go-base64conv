@@ -11,7 +11,7 @@ base64conv is a Go library for encoding and decoding numbers to base64 format. I
 Download/update the library.
 
 ```
-go get -u "github.com/mrumyantsev/base64conv-go"
+go get "github.com/mrumyantsev/go-base64conv"
 ```
 
 ## Usage

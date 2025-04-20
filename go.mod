@@ -1,3 +1,3 @@
-module github.com/mrumyantsev/base64conv-go
+module github.com/mrumyantsev/go-base64conv
 
 go 1.15
